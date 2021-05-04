@@ -1,0 +1,21 @@
+fileignoreconfig:
+- filename: app/src/main/java/pages/LoginPage.java
+  checksum: 33d3a308d20106107eaeeb55871cc775620ba4e832a4311e0d70937439dfc34f
+- filename: app/test-output/All
+  checksum: 70e0991c8554899495131e4801ee95f3c9a2cfcf1c8561ec7ae1abefebd4d75f
+- filename: app/test-output/testng.css
+  checksum: 5b3c898ca17bea2f3b7e102d1ebec38691e39f20d2338438743f0c0d53145edc
+- filename: app/src/main/java/pages/SingUpPage.java
+  checksum: 6b7d6a6d664c1df4ec128966641225e277fb11fbde322b7f74c47f83f76ec782
+- filename: app/test-output/emailable-report.html
+  checksum: 2851b5fed518055d11e535a5136155ca0a052d9241abb5489b0cb08ddbfbf4b5
+- filename: app/test-output/Default
+  checksum: 8b0a38bee96e55e1a1f8dab46a93f5b2f78f9cb3d76ad08e91a419e4ddeea8dc
+- filename: app/test-output/old/index.html
+  checksum: 922e858fb5a983ed2fdd85086bcdbf502b9a4501622014a8936f0a7637997ee6
+- filename: .idea/uiDesigner.xml
+  checksum: 18be3885953534e90388d323127b1e8a412d666d9fe4c4b2f315c589933b5f67
+- filename: app/test-output/testng-results.xml
+  checksum: 50b58cdd68316542a566a9440e2a857f733f678a6a06844208a6f930bf8d2a9a
+- filename: app/test-output/jquery-3.4.1.min.js
+  checksum: f71f31b35a634287c47fd3fd83797a3a1d38fc44221b777e086d62494cf85a89
